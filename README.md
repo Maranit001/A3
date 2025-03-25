@@ -1,4 +1,5 @@
-
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <title>College CoST</title>
     <meta charset="UTF-8">
